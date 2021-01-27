@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Latihan</string>
+
+    <!-- Message -->
+    <string name="user_not_found">User not found</string>
+
+    <!--Bottom Sheet Message-->
+    <string name="text_error_title">Error Occurred</string>
+    <string name="text_error_dsc">Sorry.. there is an error, please try again</string>
+
+    <!-- glide -->
+    <string name="user_blank_profile">user_blank_profile</string>
+
+    <string name="oke">Oke</string>
+    <string name="retry">Retry</string>
+</resources>
